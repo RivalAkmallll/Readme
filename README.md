@@ -1,6 +1,6 @@
 # 🔐 Aspiring Cybersecurity & IT Security Engineer  
 
-![Profile Views](https://komarev.com/ghpvc/?username=RivalAkmallll/&color=brightgreen&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=RivalAkmallll&color=brightgreen&style=flat-square)  
 
 ## 👨‍💻 About Me
 I’m passionate about **cybersecurity and IT security engineering**.  
@@ -29,8 +29,8 @@ Currently focused on learning how to secure systems, detect threats, and build s
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RivalAkmallll/&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RivalAkmallll/&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RivalAkmallll&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RivalAkmallll&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -49,4 +49,3 @@ Currently focused on learning how to secure systems, detect threats, and build s
 ---
 
 > ⚡ *“Every expert was once a beginner — stay curious, stay persistent.”*
- 
